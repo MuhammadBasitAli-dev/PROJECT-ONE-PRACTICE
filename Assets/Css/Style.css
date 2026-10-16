@@ -1,0 +1,11 @@
+#h1{
+    background-color: red;
+    color: white;
+}
+
+#btn{
+    background-color: red;
+    margin-left: 46%;
+    padding: 20px 30px;
+    font-size: 20px;
+    font-weight: bolder;}
